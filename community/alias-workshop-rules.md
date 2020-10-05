@@ -1,5 +1,5 @@
 # Rules & Guidelines
-The following are the rules and guidelines for sharing homebrew content with the Avrae Community. 
+The following are the rules and guidelines for sharing workshop content with the Avrae Community. 
 You do NOT need to publish your collection publicly in order to use or share any of it within your own campaign. 
 Any content that violates these rules and guidelines will be removed, and the creator(s) may be subject to restrictions.
 
