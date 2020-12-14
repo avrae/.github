@@ -4,6 +4,9 @@ You do NOT need to publish your collection publicly in order to use or share any
 Any content that violates these rules and guidelines will be removed, and the creator(s) may be subject to restrictions.
 
 ## Unacceptable content for Public Content
+### Server Specific Creations
+Workshop content should be available for anyone to use, regardless of what server they're on. Code written specifically for one Discord server should not be published to the workshop; consider using an unlisted collection instead. Published collections that are written for one specific server or that include an invite link to the server it is meant for may be removed.
+
 ### Naming and Shaming
 We don't want to see one sided accusations or any other form of naming and shaming as part of any content.
 
