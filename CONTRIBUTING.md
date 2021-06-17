@@ -57,7 +57,7 @@ is free to comment on open PRs.
 
 During the code review process, a few things will happen on your PR. First, our automated checks will run:
 - Travis CI: Basic code functionality test. If you get a red X on this one, follow the link to see what happened!
-- CodeCov: PR test coverage. Don't worry if you get a red X on this one.
+- CodeCov: PR test coverage. Don't worry too much if you get a red X on this one, but try to keep code coverage stable where possible!
 
 After that, project maintainers will give feedback and leave reviews. Once your PR has received at least 1 approval from
 maintainers and has no requested changes, it's good to go! A maintainer will merge it into the main repository soon.
