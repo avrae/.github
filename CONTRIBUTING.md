@@ -52,11 +52,12 @@ will be the `master` or `main` branch, but in certain cases it may be `dev` or `
 
 ### Code Review
 
-Feel free to request a review from other contributors! Usually, the main reviewer is @mommothazaz123, but anyone
+Feel free to request a review from other contributors! Usually, the main reviewer is @zhudotexe, but anyone
 is free to comment on open PRs.
 
 During the code review process, a few things will happen on your PR. First, our automated checks will run:
-- Travis CI: Basic code functionality test. If you get a red X on this one, follow the link to see what happened!
+- Test: Basic code functionality test. If you get a red X on this one, follow the link to see what happened!
+- Lint: This checks to see if your code conforms to the styles laid out in PEP 8. You'll see annotations appear on your code when this is done!
 - CodeCov: PR test coverage. Don't worry too much if you get a red X on this one, but try to keep code coverage stable where possible!
 
 After that, project maintainers will give feedback and leave reviews. Once your PR has received at least 1 approval from
