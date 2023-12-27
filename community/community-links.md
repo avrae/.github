@@ -19,3 +19,9 @@ Avrae Utilities is a Sublime Text 3+ package with various utilities aimed around
 ## <a href="https://marketplace.visualstudio.com/items?itemName=Croebh.avrae-utilities" target="_blank">Avrae Utilities: VS Code</a>
 
 Similarly to the Sublime Text package above, this plugin for VS Code gives various utilities for writing/editing aliases and gvars. Not currently as advanced as the Sublime Package, but contains tools for getting and updating gvars, as well as having syntax highlighting for the Draconic language.
+
+---
+
+## <a href="https://github.com/1drturtle/avrae-autoupdate" target="_blank">Avrae AutoUpdate Action</a>
+
+Avrae Autoupdate is a Github Action that attaches to your own GitHub repository. It supports updating workshop collections and their respective documentation automatically when you push to your repository. Also supports GVAR updating.
